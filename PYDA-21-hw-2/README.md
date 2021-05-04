@@ -1,4 +1,5 @@
 # Домашнее задание PYDA-21-hw-1
+[Cсылка](https://github.com/kagi-kar/PYDA-21_home_works/blob/master/PYDA-21-hw-2/PYDA-21_hw_2.ipynb) на файл с кодом в формате Jupyter Notebook
 
 ## Задание 1
 Даны 2 переменных, в которых хранятся строки произвольной длины: phrase_1 и phrase_2. Напишите код, который проверяет какая из этих строк длиннее.
