@@ -32,17 +32,23 @@ else:
 
 
 ```python
-sumator = 0
+summator = 0
 
-in_number = int(input('Начните вводить числа: '))
+in_number = int(input('Начните вводить числа:\n'))
 while in_number != 0:
-    sumator = sumator + in_number
+    summator = summator + in_number
     in_number = int(input())
-print('Сумма чисел равна', sumator)
+print('Сумма чисел равна', summator)
 ```
 
-    Начните вводить числа: 0
-    Сумма чисел равна 0
+    Начните вводить числа:
+    6
+    6
+    6
+    6
+    5
+    0
+    Сумма чисел равна 29
     
 
 # Задание 3
@@ -194,28 +200,3 @@ for elements in unic_figures:
     1 1 1 1 1 2 2 2
     Числа, которые встречаются более одного раза:
     1 2 
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
-
-
-```python
-
-```
